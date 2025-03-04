@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: Exploiting Deblurring Networks for Radiance Fields
 authors:
     A. M. Turing
 affiliations:
