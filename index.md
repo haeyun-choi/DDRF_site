@@ -16,6 +16,7 @@ paper: https://drive.google.com/file/d/1RS11tWRO0MYgHEKAvr_NSB_uADJMbSij/view?us
 code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
+DeepDeblurRF is a novel deblurring radiance field approach that leverages DNN-based deblurring modules for efficient training and high-quality novel-view synthesis from blurry images, even with nonlinear outliers like noise and saturated pixels.
 
 ![Teaser](/static/image/teaser.jpg)
 
