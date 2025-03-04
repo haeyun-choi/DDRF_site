@@ -4,7 +4,12 @@ permalink: /
 
 title: Exploiting Deblurring Networks for Radiance Fields
 authors:
-    Haeyun Choi, Heemin Yang, Janghyuk Han, Sunghyun Cho
+  - name: "Haeyun Choi"
+    link: "https://haeyun-choi.github.io/"
+  - name: "Heemin Yang"
+  - name: "Janghyuk Han"
+  - name: "Sunghyun Cho"
+    link: "https://www.scho.pe.kr/"
 affiliations:
     POSTECH
 paper: https://drive.google.com/file/d/1u5kljbJszgvCOfUJuIPUDN7vP6rMeYLr/view?usp=sharing
