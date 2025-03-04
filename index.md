@@ -13,8 +13,8 @@ authors:
 affiliations:
     POSTECH
 paper: https://drive.google.com/file/d/1RS11tWRO0MYgHEKAvr_NSB_uADJMbSij/view?usp=sharing
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+code: https://haeyun-choi.github.io/DDRF_site/
+data: https://haeyun-choi.github.io/DDRF_site/
 ---
 
 <!-- Title and abstract section -->
