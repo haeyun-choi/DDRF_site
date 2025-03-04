@@ -22,7 +22,7 @@ data: https://haeyun-choi.github.io/DDRF_site/
     <strong>DeepDeblurRF</strong> is a novel deblurring radiance field approach that leverages DNN-based deblurring modules for efficient training and high-quality novel-view synthesis from blurry images, even with nonlinear outliers like noise and saturated pixels.
 </div>
 
-![Teaser](/static/image/teaser.jpg)
+![Teaser](/static/image/teaser.png)
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
