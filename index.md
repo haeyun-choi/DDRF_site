@@ -18,6 +18,7 @@ data: https://haeyun-choi.github.io/DDRF_site/
 ---
 
 ## Under Construction 🚧
+---
 
 <!-- Title and abstract section -->
 <div style="font-size: 1.3em; margin-bottom: 70px; margin-top: -40px; text-align: center;">
