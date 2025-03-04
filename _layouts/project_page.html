@@ -57,7 +57,7 @@
                   {{ author.name }}
                 {% endif %}
               </span>
-              {% if not forloop.last %}, {% endif %}
+              {% if forloop.last == false %}, {% endif %} 
             {% endfor %}
           </div>
           {% endif %}
