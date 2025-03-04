@@ -47,6 +47,12 @@
       <div class="columns is-centered">
         <div class="column has-text-centered">
           <h1 class="title is-1 publication-title">{{ page.title }}</h1>
+
+          <!-- Add CVPR 2025 between title and authors -->
+          <div class="is-size-4 publication-venue">
+            CVPR 2025
+          </div>
+          
           {% if page.authors %}
           <div class="is-size-5 publication-authors">
             {% for author in page.authors %}
