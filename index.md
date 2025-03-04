@@ -6,10 +6,10 @@ title: Exploiting Deblurring Networks for Radiance Fields
 authors:
     Haeyun Choi, Heemin Yang, Janghyuk Han, Sunghyun Cho
 affiliations:
-    King's College, Cambridge
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+    POSTECH
+paper: https://drive.google.com/file/d/1u5kljbJszgvCOfUJuIPUDN7vP6rMeYLr/view?usp=sharing
 video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
+Code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
 
