@@ -12,7 +12,7 @@ authors:
     link: "https://www.scho.pe.kr/"
 affiliations:
     POSTECH
-paper: https://drive.google.com/file/d/1u5kljbJszgvCOfUJuIPUDN7vP6rMeYLr/view?usp=sharing
+paper: https://drive.google.com/file/d/1RS11tWRO0MYgHEKAvr_NSB_uADJMbSij/view?usp=sharing
 code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
