@@ -18,8 +18,8 @@ data: https://huggingface.co/docs/datasets
 ---
 
 <!-- Title and abstract section -->
-<div style="font-size: 1.3em; margin-bottom: 70px; margin-top: -50px; text-align: center;">
-    DeepDeblurRF is a novel deblurring radiance field approach that leverages DNN-based deblurring modules for efficient training and high-quality novel-view synthesis from blurry images, even with nonlinear outliers like noise and saturated pixels.
+<div style="font-size: 1.3em; margin-bottom: 80px; margin-top: -40px; text-align: center;">
+    <strong>DeepDeblurRF</strong> is a novel deblurring radiance field approach that leverages DNN-based deblurring modules for efficient training and high-quality novel-view synthesis from blurry images, even with nonlinear outliers like noise and saturated pixels.
 </div>
 
 ![Teaser](/static/image/teaser.jpg)
