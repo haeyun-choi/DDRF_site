@@ -57,6 +57,7 @@
                   {{ author.name }}
                 {% endif %}
               </span>
+              {% if forloop.last == false %}, {% endif %} 
             {% endfor %}
           </div>
           {% endif %}
