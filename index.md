@@ -2,8 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Exploiting Deblurring Networks  
-for Radiance Fields
+title: Exploiting Deblurring Networks for Radiance Fields
 authors:
   - name: "Haeyun Choi"
     link: "https://haeyun-choi.github.io/"
