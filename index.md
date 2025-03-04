@@ -2,9 +2,9 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: Exploiting Deblurring Networks for Radiance Fields
 authors:
-    A. M. Turing
+    Haeyun Choi, Heemin Yang, Janghyuk Han, Sunghyun Cho
 affiliations:
     King's College, Cambridge
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
