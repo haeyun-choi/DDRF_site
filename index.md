@@ -17,6 +17,8 @@ code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
 
+![Teaser](/static/image/teaser.jpg)
+
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
