@@ -9,7 +9,7 @@ affiliations:
     POSTECH
 paper: https://drive.google.com/file/d/1u5kljbJszgvCOfUJuIPUDN7vP6rMeYLr/view?usp=sharing
 video: https://www.youtube.com/results?search_query=turing+machine
-Code: https://github.com/topics/turing-machines
+code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
 
