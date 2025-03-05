@@ -12,6 +12,7 @@ authors:
     link: "https://www.scho.pe.kr/"
 affiliations:
     POSTECH
+arxiv: https://arxiv.org/abs/2502.14454
 paper: https://drive.google.com/file/d/1RS11tWRO0MYgHEKAvr_NSB_uADJMbSij/view?usp=sharing
 code: https://haeyun-choi.github.io/DDRF_site/
 data: https://haeyun-choi.github.io/DDRF_site/
