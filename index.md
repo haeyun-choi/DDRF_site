@@ -39,9 +39,8 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 ---
 
 ## DeepDeblurRF
-![Framework](/static/image/framework.png)
-
 DeepDeblurRF takes a set of blurred images of a scene and estimates a sharp radiance field that can synthesize a sharp novel view given an arbitrary pose.
+![Framework](/static/image/framework.png)
 
 To do so,
 - Performs initial deblurring on the input blurred images.
