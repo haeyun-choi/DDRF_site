@@ -92,7 +92,7 @@ Turing's paper laid the foundation for the theory of computation and had a profo
 @article{choi2025exploiting,
   title={Exploiting Deblurring Networks for Radiance Fields},
   author={Choi, Haeyun and Yang, Heemin and Han, Janghyeok and Cho, Sunghyun},
-  journal={CVPR},
+  journal={arXiv preprint arXiv:2502.14454},
   year={2025}
 }
 ```
