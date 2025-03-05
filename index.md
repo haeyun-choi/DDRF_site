@@ -40,11 +40,7 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 
 ## DeepDeblurRF
 ![Framework](/static/image/framework.jpg)
-
----
-
 ![Iteration](/static/image/iteration.png)
-
 
 
 ## Number of Iterations
@@ -58,6 +54,7 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 - The dataset and code will be released soon.
 
 ## Related Links
+
 
 <!-- Using HTML to center the abstract 
 > Note: This is an example of a Jekyll-based project website template: [Github link](https://github.com/shunzh/project_website).\
