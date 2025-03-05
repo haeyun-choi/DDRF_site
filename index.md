@@ -47,9 +47,9 @@ To do so,
 - Performs initial deblurring on the input blurred images.
 - Estimates the camera poses of the deblurred images.
 - Constructs a radiance field to aggregate 3D information about the target scene.
-- Renders images from the same camera poses as the input blurred images.
+- Renders images from the same camera poses as the deblurred images.
 - Leverages rendered images to obtain updated deblurred images from the input blurred images, a process referred to as RF-guided deblurring.
-- Iteratively
+- Iteratively performs radiance field construction using deblurred images and RF-guided deblurring to gradually enhance the quality of the radiance field and the deblurred images.
 
 ## BlurRF Dataset
 The *BlurRF-Synth* dataset is the first large-scale multi-view dataset for radiance field deblurring approaches, reflecting real-world camera degradations such as noise, saturated pixels, and in-camera processing artifacts.
