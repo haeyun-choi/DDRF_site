@@ -44,10 +44,12 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 
 DeepDeblurRF takes a set of blurred images of a scene and estimates a sharp radiance field that can synthesize a sharp novel view given an arbitrary pose.
 To do so,
-- Performs initial deblurring to the input blurred images, and obtains initial deblurred images.
+- Performs initial deblurring on the input blurred images.
 - Estimates the camera poses of the deblurred images.
 - Constructs a radiance field to aggregate 3D information about the target scene.
-- And then
+- Renders images from the same camera poses as the input blurred images.
+- Leverages rendered images to obtain updated deblurred images from the input blurred images, a process referred to as RF-guided deblurring.
+- Iteratively
 
 ## BlurRF Dataset
 The *BlurRF-Synth* dataset is the first large-scale multi-view dataset for radiance field deblurring approaches, reflecting real-world camera degradations such as noise, saturated pixels, and in-camera processing artifacts.
