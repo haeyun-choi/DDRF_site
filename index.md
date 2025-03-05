@@ -40,7 +40,12 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 
 ## DeepDeblurRF
 ![Framework](/static/image/framework.jpg)
+
+---
+
 ![Iteration](/static/image/iteration.png)
+
+
 
 ## Number of Iterations
 
