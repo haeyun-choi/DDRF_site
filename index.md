@@ -51,6 +51,7 @@ To do so,
 - Renders images from the same camera poses as the deblurred images.
 - Leverages rendered images to obtain updated deblurred images from the input blurred images, a process referred to as RF-guided deblurring.
 - Iteratively performs radiance field construction using deblurred images and RF-guided deblurring to gradually enhance the quality of the radiance field and the deblurred images.
+
 At the last iteration, we perform only the RF construction step and obtain a final radiance field, from which we can synthesize sharp novel views.
 
 ## BlurRF Dataset
