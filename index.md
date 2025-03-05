@@ -43,6 +43,8 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 ![Iteration](/static/image/iteration.png)
 
 ## BlurRF Dataset
+![BlurRF_syn](/static/image/blurrf_syn.png)
+![BlurRF_real](/static/image/blurrf_real.png)
 
 ## Visual Comparisons
 
