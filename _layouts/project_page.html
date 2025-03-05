@@ -78,6 +78,18 @@
 
           <div class="column has-text-centered">
             <div class="publication-links">
+              <!-- arXiv Link. -->
+              {% if page.arxiv %}
+              <span class="link-block">
+                <a href="{{ page.arxiv }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-book"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              {% endif %}
               <!-- PDF Link. -->
               {% if page.paper %}
               <span class="link-block">
