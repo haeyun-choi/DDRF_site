@@ -50,7 +50,7 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 
 ## News
 - Our paper is accepted to CVPR 2025.
-- The dataset and code will be released ASAP.
+- The dataset and code will be released soon.
 
 ## Related Links
 
