@@ -54,11 +54,15 @@ To do so,
 
 As iterations progress, the rendered images contain high-quality scene information, which subsequently improves the RF-guided deblurring network's performance in the next iteration.
 
+---
+
 ## BlurRF Dataset
 The ***BlurRF-Synth*** dataset is the first large-scale multi-view dataset for radiance field deblurring approaches, reflecting real-world camera degradations such as noise, saturated pixels, and in-camera processing artifacts.
 Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluation in low-light conditions where blur often occurs.
 
 ![Dataset](/static/image/dataset.png)
+
+---
 
 ## Visual Comparisons
 
