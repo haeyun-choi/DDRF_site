@@ -42,18 +42,9 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 ![Framework](/static/image/framework.jpg)
 ![Iteration](/static/image/iteration.png)
 
-
-## Number of Iterations
-
-## Visual Comparisons
-
 ## BlurRF Dataset
 
-## News
-- Our paper is accepted to CVPR 2025.
-- The dataset and code will be released soon.
-
-## Related Links
+## Visual Comparisons
 
 
 <!-- Using HTML to center the abstract 
