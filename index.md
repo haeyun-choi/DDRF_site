@@ -43,7 +43,7 @@ DeepDeblurRF takes a set of blurred images of a scene and estimates a sharp radi
 ![Framework](/static/image/framework.png)
 
 To do so, DeepDeblurRF performs initial deblurring on the input blurred images.
-Then, it iteratively performs radiance field construction using deblurred images and RF-guided deblurring to gradually enhance the quality of the radiance field and the deblurred images. 
+Then, it iteratively performs ***RF construction*** using deblurred images and ***RF-guided deblurring*** to gradually enhance the quality of the radiance field and the deblurred images. 
 At the last iteration, we perform only the radiance field construction step and obtain a final radiance field, from which we can synthesize sharp novel views.
 
 ![Iteration](/static/image/iteration.png)
