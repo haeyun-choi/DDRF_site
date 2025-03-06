@@ -26,7 +26,7 @@ data: https://haeyun-choi.github.io/DDRF_site/
 ![Teaser](/static/image/teaser.png)
 
 We demonstrate the extensibility of our framework by constructing radiance fields using different scene representations, such as voxel grids and Gaussian Splatting.
-DeepDeblurRF-P and DeepDeblurRF-G are the results of our framework, where radiance fields are constructed using Plenoxels and 3D Gaussian Splatting, respectively.
+**DeepDeblurRF-P** and **DeepDeblurRF-G** are the results of our framework, where radiance fields are constructed using Plenoxels and 3D Gaussian Splatting, respectively.
 
 ---
 <!-- Using HTML to center the abstract -->
