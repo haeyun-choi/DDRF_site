@@ -63,6 +63,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
 ---
 
+<!-- Using HTML for visual comparisons -->
 <section class="section">
   <div class="container ">
     <div class=" has-text-centered">
@@ -81,7 +82,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
                 <div id="example1" class="bal-container-small">
 
                   <div class="bal-after">
-                    <img src="/static/image/comparsion/blurrf_ours_p.png">
+                    <img src="static/image/comparsion/blurrf_ours_p.png">
                     <div class="bal-afterPosition afterLabel" style="z-index:1;">
                       Ours-P
                     </div>
@@ -89,7 +90,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
                   
                   <div class="bal-before" style="width:96.4968152866242%;">
                     <div class="bal-before-inset" style="width: 539px;">
-                      <img src="/static/image/comparsion/blurrf_exblur.png">
+                      <img src="static/image/comparsion/blurrf_exblur.png">
                       <div class="bal-beforePosition beforeLabel">
                         ExBluRF
                       </div>
@@ -107,7 +108,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
                 <div id="example2" class="bal-container-small">
 
                   <div class="bal-after">
-                    <img src="/static/image/comparsion/caps_ours_p.png">
+                    <img src="static/image/comparsion/caps_ours_p.png">
                     <div class="bal-afterPosition afterLabel">
                       Ours-P
                     </div>
@@ -115,7 +116,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
                   <div class="bal-before" style="width: 50%;">
                     <div class="bal-before-inset" style="width: 539px;">
-                      <img src="/static/image/comparsion/caps_pdrf.png">
+                      <img src="static/image/comparsion/caps_pdrf.png">
                       <div class="bal-beforePosition beforeLabel">
                         PDRF-10
                       </div>
@@ -143,7 +144,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
               <div id="example4" class="bal-container-small">
                 <div class="bal-after">
-                  <img src="/static/image/comparsion/girl_ours_g.png">
+                  <img src="static/image/comparsion/girl_ours_g.png">
                   <div class="bal-afterPosition afterLabel" style="z-index:1;">
                     Ours-G
                   </div>
@@ -151,7 +152,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
                 <div class="bal-before" style="width:62.10191082802548%;">
                   <div class="bal-before-inset" style="width: 539px;">
-                    <img src="/static/image/comparsion/girl_dbgs.png">
+                    <img src="static/image/comparsion/girl_dbgs.png">
                     <div class="bal-beforePosition beforeLabel">
                       Deblurring-3DGS
                     </div>
@@ -167,7 +168,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
               <div id="example5" class="bal-container-small">
                 <div class="bal-after">
-                  <img src="/static/image/comparsion/cupcake_ours_g.png">
+                  <img src="static/image/comparsion/cupcake_ours_g.png">
                   <div class="bal-afterPosition afterLabel" style="z-index:1;">
                     Ours-G
                   </div>
@@ -175,7 +176,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
                 <div class="bal-before" style="width:56.77179962894249%;">
                   <div class="bal-before-inset" style="width: 628px;">
-                    <img src="/static/image/comparsion/cupcake_bags.png">
+                    <img src="static/image/comparsion/cupcake_bags.png">
                     <div class="bal-beforePosition beforeLabel">
                       BAGS
                     </div>
@@ -195,12 +196,6 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
     </div>
   </div>
 </section>
-
-
-
-
-
-
 
 
 
