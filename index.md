@@ -42,13 +42,9 @@ In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approa
 DeepDeblurRF takes a set of blurred images of a scene and estimates a sharp radiance field that can synthesize a sharp novel view given an arbitrary pose.
 ![Framework](/static/image/framework.png)
 
-To do so,
-- Performs initial deblurring on the input blurred images.
-- Estimates the camera poses of the deblurred images.
-- Constructs a radiance field to aggregate 3D information and renders images from the same camera poses as the deblurred images.
-- Leverages rendered images to obtain updated deblurred images from the input blurred images, a process referred to as RF-guided deblurring.
-- Iteratively performs **RF construction** using deblurred images and **RF-guided deblurring** to gradually enhance the quality of the radiance field and the deblurred images.
-- At the last iteration, we perform only the RF construction step and obtain a final radiance field, from which we can synthesize sharp novel views.
+To do so, DeepDeblurRF performs initial deblurring on the input blurred images.
+Then, it iteratively performs radiance field construction using deblurred images and RF-guided deblurring to gradually enhance the quality of the radiance field and the deblurred images. 
+At the last iteration, we perform only the radiance field construction step and obtain a final radiance field, from which we can synthesize sharp novel views.
 
 ![Iteration](/static/image/iteration.png)
 
