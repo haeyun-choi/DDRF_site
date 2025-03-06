@@ -63,8 +63,138 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 
 ---
 
-## Visual Comparisons
+<section class="section">
+  <div class="container ">
+    <div class=" has-text-centered">
+      <h2 class="title is-3">Visual Comparisons</h2>
+      <div class="content has-text-justified">
+        <p>
 
+        </p>
+      </div>
+      <div class="columns is-centered">
+        <!-- Visual Effects. -->
+        <div class="column">
+          <div class="content">
+            <div class="columns is-centered">
+              <div class="column is-full-width">
+                <div id="example1" class="bal-container-small">
+
+                  <div class="bal-after">
+                    <img src="./static/image/comparsion/blurrf_ours_p.png">
+                    <div class="bal-afterPosition afterLabel" style="z-index:1;">
+                      Ours-P
+                    </div>
+                  </div>
+                  
+                  <div class="bal-before" style="width:96.4968152866242%;">
+                    <div class="bal-before-inset" style="width: 539px;">
+                      <img src="./static/image/comparsion/blurrf_exblur.png">
+                      <div class="bal-beforePosition beforeLabel">
+                        ExBluRF
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="bal-handle" style="left:96.4968152866242%;">
+                    <span class=" handle-left-arrow"></span>
+                    <span class="handle-right-arrow"></span>
+                  </div>
+
+                </div>
+
+
+                <div id="example2" class="bal-container-small">
+
+                  <div class="bal-after">
+                    <img src="./static/image/comparsion/caps_ours_p.png">
+                    <div class="bal-afterPosition afterLabel">
+                      Ours-P
+                    </div>
+                  </div>
+
+                  <div class="bal-before" style="width: 50%;">
+                    <div class="bal-before-inset" style="width: 539px;">
+                      <img src="./static/image/comparsion/caps_pdrf.png">
+                      <div class="bal-beforePosition beforeLabel">
+                        PDRF-10
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="bal-handle" style="left: 50%;">
+                    <span class=" handle-left-arrow"></span>
+                    <span class="handle-right-arrow"></span>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!--/ Visual Effects. -->
+
+        <!-- Matting. -->
+        <div class="column">
+          <div class="columns is-centered">
+            <div class="column content">
+
+              <div id="example4" class="bal-container-small">
+                <div class="bal-after">
+                  <img src="./static/image/comparsion/girl_ours_g.png">
+                  <div class="bal-afterPosition afterLabel" style="z-index:1;">
+                    Ours-G
+                  </div>
+                </div>
+
+                <div class="bal-before" style="width:62.10191082802548%;">
+                  <div class="bal-before-inset" style="width: 539px;">
+                    <img src="./static/image/comparsion/girl_dbgs.png">
+                    <div class="bal-beforePosition beforeLabel">
+                      Deblurring-3DGS
+                    </div>
+                  </div>
+                </div>
+
+                <div class="bal-handle" style="left:62.10191082802548%;">
+                  <span class=" handle-left-arrow"></span>
+                  <span class="handle-right-arrow"></span>
+                </div>
+
+              </div>
+
+              <div id="example5" class="bal-container-small">
+                <div class="bal-after">
+                  <img src="./static/image/comparsion/cupcake_ours_g.png">
+                  <div class="bal-afterPosition afterLabel" style="z-index:1;">
+                    Ours-G
+                  </div>
+                </div>
+
+                <div class="bal-before" style="width:56.77179962894249%;">
+                  <div class="bal-before-inset" style="width: 628px;">
+                    <img src="./static/image/comparsion/cupcake_bags.png">
+                    <div class="bal-beforePosition beforeLabel">
+                      BAGS
+                    </div>
+                  </div>
+                </div>
+
+                <div class="bal-handle" style="left:56.77179962894249%;">
+                  <span class=" handle-left-arrow"></span>
+                  <span class="handle-right-arrow"></span>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
