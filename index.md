@@ -66,6 +66,7 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 <!-- Using HTML for visual comparisons -->
 
 <link rel="stylesheet" href="/static/css/index.css">
+<script src="./static/js/bulma-slider.min.js"></script>
 
 <section class="section">
   <div class="container ">
