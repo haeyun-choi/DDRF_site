@@ -197,6 +197,21 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
   </div>
 </section>
 
+<script>
+  new BeforeAfter({
+    id: '#example1'
+  });
+  new BeforeAfter({
+    id: '#example2'
+  });
+  new BeforeAfter({
+    id: '#example4'
+  });
+  new BeforeAfter({
+    id: '#example5'
+  });
+
+</script>
 
 
 
