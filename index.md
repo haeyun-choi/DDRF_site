@@ -64,6 +64,9 @@ Additionally, we introduce ***BlurRF-Real***, a real-world dataset for evaluatio
 ---
 
 <!-- Using HTML for visual comparisons -->
+
+<link rel="stylesheet" href="/static/css/index.css">
+
 <section class="section">
   <div class="container ">
     <div class=" has-text-centered">
